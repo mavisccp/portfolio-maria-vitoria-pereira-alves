@@ -49,7 +49,7 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **Maria Vitoria Pereira Alves** * LinkedIn: [Seu Link]
+* **Maria Vitoria Pereira Alves** * LinkedIn: (https://br.linkedin.com/in/maria-vit%C3%B3ria-94149a213)
 * E-mail: mariavitoria_s2_@hotmail.com
  
 ---
