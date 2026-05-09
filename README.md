@@ -52,6 +52,7 @@ Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na U
 | **Traduzindo Lógica para Python** |  Escrever o pseucódigo equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./traduzindo_logica_para_python/) |
 | **Engenharia de Contexto e Lógica Física** |  Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia_de_contexto_e_logica_fisica/) |
 | **Desenhando Emojis com Dados** |  Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando_emojis_com_dados/) |
+| **SISTEMA DE AUDITORIA DE RECURSOS CORPORATIVOS** |  processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução. | [Ver Projeto](./sistema_de_auditoria_de_recursos_corporativos/) |
 
 
  
