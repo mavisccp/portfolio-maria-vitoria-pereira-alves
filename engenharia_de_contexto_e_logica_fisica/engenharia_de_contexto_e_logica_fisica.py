@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1R9IztYyhPWdNSdyfVLm5e_lQjlr6GtOO
 """
 
-### PARTE 1: O Algoritmo do Microclima Local
+# PARTE 1: O Algoritmo do Microclima Local
 
 
 
@@ -133,7 +133,7 @@ def analisar_microclima():
 
 analisar_microclima()
 
-### PARTE 2: Navegação e Evacuação Espacial
+# PARTE 2: Navegação e Evacuação Espacial
 
 
 
