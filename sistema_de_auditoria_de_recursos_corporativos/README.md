@@ -28,7 +28,7 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [(https://github.com/mavisccp/portfolio-maria-vitoria-pereira-alves/tree/main/sistema_de_auditoria_de_recursos_corporativos.git)]
+   git clone https://github.com/mavisccp/portfolio-maria-vitoria-pereira-alves/tree/main/sistema_de_auditoria_de_recursos_corporativos.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
