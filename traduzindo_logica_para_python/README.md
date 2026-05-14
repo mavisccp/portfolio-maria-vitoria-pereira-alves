@@ -50,4 +50,4 @@ O desenvolvimento deste pacote de scripts permitiu consolidar conhecimentos fund
 3. Siga as instruções que aparecerão no terminal para inserir os dados solicitados.
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+[Voltar ao início](https://github.com/mavisccp)
